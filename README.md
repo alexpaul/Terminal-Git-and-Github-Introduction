@@ -50,8 +50,9 @@ signup for a [Github](https://github.com) account
 
 ## Reading Resources
 
-[github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)   
-[github hello-world starter resource](https://guides.github.com/activities/hello-world)   
+* [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)   
+* [github hello-world starter resource](https://guides.github.com/activities/hello-world)   
+* [Getting started with UNIX](https://gist.github.com/alexpaul/8718808a32c30bdfa91cd33fc31f1f58)
 
 
 #### Storing your github credentials in Terminal
